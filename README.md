@@ -5,9 +5,10 @@ SIMULADO - **Java Advanced** aplicado em 05/03/2024.
 
 | ![](documentacao/fiap.jpg)               | **Java Advanced** |
 |------------------------------------------|-------------------|
-| **ALUNO:**                               | **TURMA:** 2TDSPG |
+| **ALUNA:** Jaci Teixeira Santos          | **TURMA:** 2TDSPG |
+| **ALUNO:** Gabriel Eringer de Oliveira   | **TURMA:** 2TDSPG |
 | **PROFESSOR:** Benefrancis do Nascimento | 23/08/2023        |
-| **SIMULADO**                      | ****              |
+| **SIMULADO**                             | ****              |
 
 # Sumário
 
